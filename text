@@ -1,0 +1,8 @@
+<code>git rm cached style.css</code> Aik file pahla sa add ha Git history man
+usko gitignore file man add krvana ka Shortcut
+<code>git rm cached -r node_module</code> Aik folder pahla sa add ha Git history
+man usko gitignore file man add krvana ka Shortcut
+<code>
+  Phr iska bahd commit kr dan ab jo bhe us folder ya file man changing ho ge
+  hmara git usa track nhi kra ga.
+</code>
